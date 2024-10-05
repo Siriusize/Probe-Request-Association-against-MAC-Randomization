@@ -10,6 +10,7 @@ pip install -r requirement.txt
 A toy example to associate probe requests
 ```python
 python assoc_api.py
+```
 
 Terminal output
 ```
@@ -23,6 +24,7 @@ average_id_switches = 0.000
 average_segs = 1.100
 purity = 1.000
 Results are saved in ./data/result/eval_result.csv
+```
 
 More association details are shown in `./data/result/eval_result.csv`
 
@@ -46,3 +48,4 @@ Citation
   year={2022},
   publisher={IEEE}
 }
+```
