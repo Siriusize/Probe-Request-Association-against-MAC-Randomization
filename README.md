@@ -12,7 +12,7 @@ A toy example to associate probe requests
 python assoc_api.py
 ```
 
-Terminal output
+Association result
 ```
 [*] 11 out of 11 packet groups are finalized. 
 [*] number of ultimate packet groups: 11
@@ -28,8 +28,9 @@ Results are saved in ./data/result/eval_result.csv
 
 More association details are shown in `./data/result/eval_result.csv`
 
-Citation
 ```
+### Citation
+
 @inproceedings{tan2021efficient,
   title={Efficient Association of Wi-Fi Probe Requests under MAC Address Randomization},
   author={Tan, Jiajie and Chan, S-H Gary},
