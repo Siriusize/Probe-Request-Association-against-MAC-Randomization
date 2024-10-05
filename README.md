@@ -5,6 +5,7 @@ This repo implements the papers of [Efficient Association of Wi-Fi Probe Request
 Create environment 
 ```
 pip install -r requirement.txt
+```
 
 A toy example to associate probe requests
 ```python
