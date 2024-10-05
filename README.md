@@ -23,10 +23,9 @@ homogeneity = 1.000, completeness = 0.789, v_measure_score = 0.882
 average_id_switches = 0.000
 average_segs = 1.100
 purity = 1.000
-Results are saved in ./data/result/eval_result.csv
 ```
 
-More association details are shown in `./data/result/eval_result.csv`
+More association details are shown in `./data/result/`
 
 ### Citation
 ```
