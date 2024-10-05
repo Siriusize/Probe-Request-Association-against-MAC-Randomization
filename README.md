@@ -2,12 +2,12 @@
 
 This repo implements the papers of [Efficient Association of Wi-Fi Probe Requests under MAC](https://ieeexplore.ieee.org/document/9488769) and [Self-Supervised Association of Wi-Fi Probe Requests Under MAC Address Randomization](https://ieeexplore.ieee.org/abstract/document/9888045). 
 
-Create environment 
+### Create environment 
 ```
 pip install -r requirement.txt
 ```
 
-A toy example to associate probe requests
+### A toy example of associating probe requests
 ```python
 python assoc_api.py
 ```
@@ -28,9 +28,8 @@ Results are saved in ./data/result/eval_result.csv
 
 More association details are shown in `./data/result/eval_result.csv`
 
+### Citation
 ```
-Citation
-
 @inproceedings{tan2021efficient,
   title={Efficient Association of Wi-Fi Probe Requests under MAC Address Randomization},
   author={Tan, Jiajie and Chan, S-H Gary},
