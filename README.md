@@ -7,7 +7,7 @@ This repo implements the papers of [Efficient Association of Wi-Fi Probe Request
 pip install -r requirement.txt
 ```
 
-### A toy example of associating probe requests
+### An example of associating probe requests
 ```python
 python assoc_api.py
 ```
